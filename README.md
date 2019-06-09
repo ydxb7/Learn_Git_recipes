@@ -1,4 +1,4 @@
-# Learn Git and GitHub Recipes
+# Learn Git and GitHub: Recipes
 
 This repository contains recipes for some foods I like.
 
